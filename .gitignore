@@ -1,1 +1,7 @@
-./.vscode/*
+./.vscode/**
+**.pyc
+**.rpyc
+**.rpyb
+**.save
+**log.txt
+**traceback.txt
